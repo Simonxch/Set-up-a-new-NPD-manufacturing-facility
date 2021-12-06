@@ -1,0 +1,2 @@
+# Set-up-a-new-NPD-manufacturing-facility
+Used a budget of USD 8 million to set up a NPD cell (New Product Development) including 7 pieces of large CNC machines and a testing/inspection facility in Singapore to support REG/FEG new product requirements with the goals of enabling multiple design iterations for a given design cycle &amp; optimizing design upfront to eliminate production learning curve
